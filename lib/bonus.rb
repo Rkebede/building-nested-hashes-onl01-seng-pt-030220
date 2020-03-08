@@ -20,7 +20,9 @@ def bonus
    }
   }
 
-  
+hash = {first: "first value!", second: "second value!"}
+ 
+hash[:first]
 
   
 
