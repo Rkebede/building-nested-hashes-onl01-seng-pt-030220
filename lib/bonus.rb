@@ -20,9 +20,8 @@ def bonus
    }
   }
 
-hash = {first: "first value!", second: "second value!"}
- 
-epic_tragedy[:]
+epic_tragedy[:montague] [:hero] [:status] = "dead" 
+epic_tragedy[:capulet] [:heroine] [:status] = "dead"
 
   
 
